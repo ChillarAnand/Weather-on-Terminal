@@ -1,8 +1,12 @@
+### Weather On Terminal
+Get weather information right on the terminal.
+
+
+ 
 ### Usage
     git clone https://github.com/ChillarAnand/Weather-on-Terminal.git
     cd Weather-on-Terminal
     python weather.py
-
 
 
 
@@ -15,7 +19,6 @@ Temperatue : 34 Celsius
 Wind : 13 Kmph N   
 Humidity : 50   
 Precipitation : 2.7 MM  
-
 
 
 
