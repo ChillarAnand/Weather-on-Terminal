@@ -9,11 +9,11 @@
 
 Getting weather information for your location...
 
-Weather : Partly Cloudy 
-Temperatue : 34 Celsius
-Wind : 13 Kmph N 
-Humidity : 50 
-Precipitation : 2.7 MM
+Weather : Partly Cloudy   
+Temperatue : 34 Celsius  
+Wind : 13 Kmph N   
+Humidity : 50   
+Precipitation : 2.7 MM  
 
 
 
