@@ -11,8 +11,9 @@ import json
 
 def get_ip():
     url = "http://checkip.dyndns.org"
-    request = urllib.urlopen(url).read()
-    return request[-30:-16]
+    data = urllib.urlopen(url).read()
+    ip_address = data[-30:-16]
+    return ip_address
 
 
 
