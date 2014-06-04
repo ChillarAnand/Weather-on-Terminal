@@ -11,14 +11,7 @@ Get weather information right on the terminal.
 
 
 ### Sample Output
-
-Getting weather information for your location...
-
-Weather : Partly Cloudy   
-Temperatue : 34 Celsius  
-Wind : 13 Kmph N   
-Humidity : 50   
-Precipitation : 2.7 MM  
+![Weather-on-Terminal](http://4.bp.blogspot.com/-_b09ZZBmFHk/U48GvsG0wPI/AAAAAAAAKj8/LU7WmtkKO_o/s1600/weather-widget-terminal.png)
 
 
 
