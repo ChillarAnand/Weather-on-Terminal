@@ -26,3 +26,6 @@ Precipitation : 2.7 MM
 1. It fetches your ip from  http://checkip.dyndns.org
 2. By using ip, it fetches weather from http://worldweatheronline.com/
 
+
+### More
+Wrote this for my blog post http://www.avilpage.com/2014/06/a-weather-widget-on-your-terminal.html
