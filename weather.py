@@ -16,7 +16,6 @@ def get_ip():
     return ip_address
 
 
-
 def get_weather(ip_address):
     end_point = "http://api.worldweatheronline.com/free/v1/weather.ashx?" 
     query = "key=a37fae643df77aa83d88abbc9e8e96194ab242d4&q=" + str(ip_address) + "&num_of_days=0&format=json"
@@ -37,7 +36,6 @@ def print_weather(data):
     """ % (data['weatherDesc'][0]['value'], data['temp_C'], data['windspeedKmph'], data['winddir16Point'], data['humidity'], data['precipMM'])
 
 
-
 def main():
     print "\nGetting weather information for your location..."
     ip_address = get_ip()
@@ -45,7 +43,5 @@ def main():
     print_weather(data)
 
 
-
 if __name__ == "__main__":
     main()
-
